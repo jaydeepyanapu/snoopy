@@ -1,0 +1,4 @@
+hii i am learning aws devops 
+can you please explain how to clone git repository
+ya sure
+git clone is nothing but downloading data from remote repository to local repository
